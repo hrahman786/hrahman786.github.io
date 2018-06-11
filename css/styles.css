@@ -312,6 +312,12 @@ nav h1 a {
 }
 
 @media screen and (max-width: 650px) {
+  
+  nav h1 a {
+  letter-spacing: normal;
+  }
+  
+
   #breadcrumb {
     height: 100px;
     width: 100%;
