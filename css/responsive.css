@@ -97,23 +97,7 @@
   }
 }
 
-/*@media screen and (min-width: 700px) {
-  .hero {
-    width: 50%;
-  }
-  .top-news {
-    order: 1;
-    width: 50%;
-  }
-  .scores {
-    order: 2;
-    width: 60%;
-  }
-  .weather {
-    order: 3;
-  }
-}
-
+/*
 @media screen and (min-width: 850px) {
   body {
     width: 1250px;
